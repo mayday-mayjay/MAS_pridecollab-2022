@@ -1,0 +1,34 @@
+{
+    "__author": "verd",
+    "version": 3,
+    "type": 0,
+    "name": "verd_polysexual_flowercrown",
+    "img_sit": "verd_polysexual_flowercrown",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "stay_on_start": true,
+    "rec_layer": 1,
+    "priority": 20,
+    "acs_type": "left-hair-flower",
+    "mux_type": [
+        "left-hair-flower"
+    ],
+    "ex_props": {
+        "left-hair-strand-eye-level": false
+    },
+    "select_info": {
+        "display_name": "Flowercrown (Polysexual flag)",
+        "thumb": "verd_polysexual_flowercrown",
+        "group": "left-hair-flower"
+        "select_dlg": [
+            ""Why settle for just one? There's enough love for every gender~!",
+            "I'll always love you, no matter what~!",
+            "Be proud, live freely~"
+        ]
+    },
+    "giftname": "polysexualflowercrown"
+}
+
+
