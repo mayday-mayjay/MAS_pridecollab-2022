@@ -9,52 +9,51 @@
 
 ## ✨ ⭑ Content
 
-✦ Hairclips (in 20+ flags)
-✦ Dangling pride earrings
-✦ Round earrings (in 20+ flags)
-✦ Star pride earrings
-✦ Pong backgrounds (2 styles)
-✦ Pride octo plushies (in 20+ flags / table acs)
-✦ Long rainbow furby (table acs)
-✦ Mugs
-✦ Gloves (bisexual and transgender)
-✦ Pride face mask
-✦ Pride kitty plush
-✦ 2 flower vases
-✦ Duck plushies (in 20+ flags / table acs)
-✦ Necklaces (in 20+ flags)
-✦ Crystal pride earrings
-✦ Facepaint (in 20+ flags)
-✦ Flower crowns (in 15 flags)
-✦ Trans hairstyle
-✦ Head pieces
-
+✦ Hairclips (in 20+ flags) <br>
+✦ Dangling pride earrings <br>
+✦ Round earrings (in 20+ flags) <br>
+✦ Star pride earrings <br>
+✦ Pong backgrounds (2 styles) <br>
+✦ Pride octo plushies (in 20+ flags / table acs) <br>
+✦ Long rainbow furby (table acs) <br>
+✦ Mugs <br>
+✦ Gloves (bisexual and transgender) <br>
+✦ Pride face mask <br>
+✦ Pride kitty plush <br>
+✦ 2 flower vases <br>
+✦ Duck plushies (in 20+ flags / table acs) <br>
+✦ Necklaces (in 20+ flags) <br>
+✦ Crystal pride earrings <br>
+✦ Facepaint (in 20+ flags) <br>
+✦ Flower crowns (in 15 flags) <br>
+✦ Trans hairstyle <br>
+✦ Head pieces <br>
 <details><summary> ✦ Pride pins (14 shapes + in 20+ flags!) </summary> 
-  * circle
-  * diamond
-  * flag
-  * heart
-  * heart-rainbow
-  * hexagon
-  * moon
-  * moon-rainbow
-  * regular rainbow
-  * spade
-  * spade rainbow
-  * star
-  * star-rainbow
-  * triangle
+  * circle <br>
+  * diamond <br>
+  * flag <br>
+  * heart <br>
+  * heart-rainbow <br>
+  * hexagon <br>
+  * moon <br>
+  * moon-rainbow <br>
+  * regular rainbow <br>
+  * spade <br>
+  * spade rainbow <br>
+  * star <br>
+  * star-rainbow <br>
+  * triangle <br>
 </details>
 
 ## ♥️♠️♦️♣️ ⭑ Credits
 
   * ![reddit](.github/icons/discord.svg) u/mayday-mayjay / DJMayJay#2001 / The DreamScape system
-  — team leader, main concept creator, helped with jsons/thumbs, coded selectors, made edited versions of Bibi's trans hair
+  — team leader, main concept creator, helped with jsons/thumbs, coded selectors, designed spritepacks
   * ![reddit](.github/icons/reddit.svg) [u/my-otter-self](https://reddit.com/u/my-otter-self)
   ![github](.github/icons/github-light.svg#gh-dark-mode-only)![github](.github/icons/github-dark.svg#gh-light-mode-only) [@my-otter-self](https://github.com/my-otter-self)
-  — repo maintainer, writer, general help
-  * ![reddit](.github/icons/reddit.svg) [u/Historical_Variety63](https://reddit.com/u/Historical_Variety63)
-  — writing/ideas help, and art design concept help
+  — collab co-leader/concept creator, repo manager, bestieeeee
+<details><summary> check all the other spritepack designers and coders here! </summary> 
+</details>
 
 ## 🪐 ⭑ Join our Discord!
 
