@@ -1,0 +1,29 @@
+{
+    "__author": "spooks and otter // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "acs_spooks_and_otter_pridekitty_table_acs_reg",
+    "img_sit": "spooks_pridekitty_table_acs_reg",
+    "pose_map": {
+        "default": "0",
+        "l_default": "0"
+    },
+
+    "rec_layer": 2,
+    "priority": 15,
+    "acs_type": "table_acs",
+    "stay_on_start": true,
+    "select_info": {
+        "display_name": "Pride Kitty",
+        "thumb": "spooks_pridekitty_reg",
+        "group": "table_acs",
+        "select_dlg": [
+          "Never be afraid to show off your true colors, [player]!",
+          "You're not broken, you're perfect the way you are!",
+          "Be proud, live freely~"
+        ]
+    },
+    "dlg_desc": "pride kitty",
+    "dlg_plural": false,
+    "giftname": "spooks_pridekitty_reg"
+}
