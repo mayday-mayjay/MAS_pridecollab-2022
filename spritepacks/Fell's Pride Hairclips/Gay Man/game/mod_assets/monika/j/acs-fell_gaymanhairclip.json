@@ -1,0 +1,27 @@
+{
+    "__author": "fell and otter // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "fell_gaymanhairclip",
+    "img_sit": "fell_gaymanhairclip",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 5,
+    "acs_type": "left-hair-clip",
+    "stay_on_start": true,
+    "ex_props": {
+    },
+    "select_info": {
+        "display_name": "Gay Man Hairclip",
+        "thumb": "fell_gaymanhairclip",
+        "group": "left-hair-clip",
+        "select_dlg": [
+            "Let's let go of who we're 'supposed' to be and embrace who we {i}really{/i} are.",
+            "I'll always love you, no matter what~!",
+            "You're not broken, you're perfect the way you are!"
+        ]
+    },
+    "giftname": "fell_gaymanhairclip"
+}

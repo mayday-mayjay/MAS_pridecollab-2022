@@ -1,0 +1,27 @@
+{
+    "__author": "fell and otter // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "fell_demiromantichairclip",
+    "img_sit": "fell_demiromantichairclip",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 5,
+    "acs_type": "left-hair-clip",
+    "stay_on_start": true,
+    "ex_props": {
+    },
+    "select_info": {
+        "display_name": "Demiromantic Hairclip",
+        "thumb": "fell_demiromantichairclip",
+        "group": "left-hair-clip",
+        "select_dlg": [
+            "Romance isn't everything, we don't need it to enjoy each other's company~!",
+            "You're not broken, you're perfect the way you are!",
+            "Be proud, live freely~"
+        ]
+    },
+    "giftname": "fell_demiromantichairclip"
+}
