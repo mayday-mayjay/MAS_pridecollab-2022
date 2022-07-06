@@ -1,0 +1,30 @@
+{
+    "__author": "Bluklaod and otter // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "acs_otter_and_bluklaod_facepaint",
+    "img_sit": "bluklaod_pride_facepaint",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 4,
+    "acs_type": "facepaint_acs",
+    "mux_type": [
+        "facepaint"
+    ],
+    "stay_on_start": true,
+    "giftname": "bluklaod_pridefacepaint",
+    "dlg_desc": "pride face paint",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Pride face paint",
+        "thumb": "bluklaod_pride_facepaint",
+        "group": "facepaint_acs",
+        "select_dlg": [
+            "Never be afraid to show off your true colors, [player]!",
+            "You're not broken, you're perfect the way you are!",
+            "Be proud, live freely~"
+        ]
+    }
+}
