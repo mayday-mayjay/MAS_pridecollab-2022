@@ -1,0 +1,30 @@
+{
+    "__author": "geneTechnician, MayJay, u/Living-Class4701",
+    "version": 3,
+    "type": 0,
+    "name": "gt_halfup_ribbon_nonbinary",
+    "img_sit": "gt_halfup_ribbon_nonbinary",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 0,
+    "acs_type": "half-up-ribbon",
+    "ex_props": {
+        "ribbon-like": true
+    },
+    "stay_on_start": true,
+    "dlg_desc": "nonbinary half-up ribbon",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Half-up Ribbon (Nonbinary flag)",
+        "thumb": "gt_halfup_ribbon_nonbinary",
+        "group": "ribbon",
+        "select_dlg": [
+            "You're not broken, you're perfect the way you are!",
+            "Half [boy/girl/nonbinary], but a full cutie~!",
+            "Love is love~!" 
+        ]
+    },
+    "giftname": "gt_halfup_ribbon_nonbinary"
+}

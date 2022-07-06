@@ -1,0 +1,30 @@
+{
+    "__author": "geneTechnician, MayJay, u/Living-Class4701",
+    "version": 3,
+    "type": 0,
+    "name": "gt_halfup_ribbon_pansexual",
+    "img_sit": "gt_halfup_ribbon_pansexual",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 0,
+    "acs_type": "half-up-ribbon",
+    "ex_props": {
+        "ribbon-like": true
+    },
+    "stay_on_start": true,
+    "dlg_desc": "pansexual half-up ribbon",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Half-up Ribbon (Pansexual)",
+        "thumb": "gt_halfup_ribbon_pansexual",
+        "group": "ribbon",
+        "select_dlg": [
+            "Why settle for just one? There's enough love for every gender~!",
+            "Be proud, live freely~",
+            "You're not broken, you're perfect the way you are!"
+        ]
+    },
+    "giftname": "gt_halfup_ribbon_pansexual"
+}

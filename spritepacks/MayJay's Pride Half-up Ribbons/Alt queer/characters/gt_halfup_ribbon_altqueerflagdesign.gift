@@ -1,0 +1,30 @@
+{
+    "__author": "geneTechnician, MayJay, u/Living-Class4701",
+    "version": 3,
+    "type": 0,
+    "name": "gt_halfup_ribbon_altqueerflagdesign",
+    "img_sit": "gt_halfup_ribbon_altqueerflagdesign",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 0,
+    "acs_type": "half-up-ribbon",
+    "ex_props": {
+        "ribbon-like": true
+    },
+    "stay_on_start": true,
+    "dlg_desc": "altqueerflag half-up ribbon",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Half-up Ribbon (Alt Queer Flag)",
+        "thumb": "gt_halfup_ribbon_altqueerflagdesign",
+        "group": "ribbon",
+        "select_dlg": [
+            "Some are born into their bodies, some have to fight for it!",
+            "Be proud, live freely~",
+            "Love is love~!"
+        ]
+    },
+    "giftname": "gt_halfup_ribbon_altqueerflagdesign"
+}

@@ -1,0 +1,30 @@
+{
+    "__author": "geneTechnician, MayJay, u/Living-Class4701",
+    "version": 3,
+    "type": 0,
+    "name": "gt_halfup_ribbon_asexual",
+    "img_sit": "gt_halfup_ribbon_asexual",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 0,
+    "acs_type": "half-up-ribbon",
+    "ex_props": {
+        "ribbon-like": true
+    },
+    "stay_on_start": true,
+    "dlg_desc": "asexual half-up ribbon",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Half-up Ribbon (Asexual)",
+        "thumb": "gt_halfup_ribbon_asexual",
+        "group": "ribbon",
+        "select_dlg": [
+            "Sex isn't everything, we don't need it to enjoy each other's company~",
+            "Romance isn't everything, we don't need it to enjoy each other's company~!",
+            "Be proud, live freely~"
+        ]
+    },
+    "giftname": "gt_halfup_ribbon_asexual"
+}

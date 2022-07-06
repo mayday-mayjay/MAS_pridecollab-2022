@@ -1,0 +1,30 @@
+{
+    "__author": "geneTechnician, MayJay, u/Living-Class4701",
+    "version": 3,
+    "type": 0,
+    "name": "gt_halfup_ribbon_transgender",
+    "img_sit": "gt_halfup_ribbon_transgender",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 0,
+    "acs_type": "half-up-ribbon",
+    "ex_props": {
+        "ribbon-like": true
+    },
+    "stay_on_start": true,
+    "dlg_desc": "transgender half-up ribbon",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Half-up Ribbon (Transgender flag)",
+        "thumb": "gt_halfup_ribbon_transgender",
+        "group": "ribbon",
+        "select_dlg": [
+            "Some are born into their bodies, some have to fight for it!",
+            "You're not broken, you're perfect the way you are!",
+            "I'll always love you, no matter what~!"
+        ]
+    },
+    "giftname": "gt_halfup_ribbon_transgender"
+}

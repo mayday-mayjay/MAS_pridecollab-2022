@@ -1,0 +1,30 @@
+{
+    "__author": "geneTechnician, MayJay, u/Living-Class4701",
+    "version": 3,
+    "type": 0,
+    "name": "gt_halfup_ribbon_agender",
+    "img_sit": "gt_halfup_ribbon_agender",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 0,
+    "acs_type": "half-up-ribbon",
+    "ex_props": {
+        "ribbon-like": true
+    },
+    "stay_on_start": true,
+    "dlg_desc": "agender half-up ribbon",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Half-up Ribbon (Agender)",
+        "thumb": "gt_halfup_ribbon_agender",
+        "group": "ribbon",
+        "select_dlg": [
+            "Never be afraid to show off your true colors, [player]~",
+            "Some are born into their bodies, some have to fight for it!",
+            "You're not broken, you're perfect the way you are!"
+        ]
+    },
+    "giftname": "gt_halfup_ribbon_agender"
+}
