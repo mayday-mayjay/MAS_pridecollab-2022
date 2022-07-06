@@ -1,0 +1,27 @@
+{
+    "__author": "fell and otter // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "fell_asexualhairclip",
+    "img_sit": "fell_asexualhairclip",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 5,
+    "acs_type": "left-hair-clip",
+    "stay_on_start": true,
+    "ex_props": {
+    },
+    "select_info": {
+        "display_name": "Asexual Hairclip",
+        "thumb": "fell_asexualhairclip",
+        "group": "left-hair-clip",
+        "select_dlg": [
+            "Sex isn't everything, we don't need it to enjoy each other's company~!",
+            "You're not broken, you're perfect the way you are!",
+            "Be proud, live freely~"
+        ]
+    },
+    "giftname": "fell_asexualhairclip"
+}
