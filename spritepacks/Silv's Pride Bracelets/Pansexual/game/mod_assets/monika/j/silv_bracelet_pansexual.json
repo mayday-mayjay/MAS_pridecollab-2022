@@ -1,0 +1,43 @@
+{
+    "__author": "silv / rosalyn and MayJay // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "silv_bracelet_pansexual",
+    "img_sit": "silv_bracelet_pansexual",
+    "pose_map": {
+        "p1": "1",
+        "p2": "2",
+        "p3": "3",
+        "p4": "4",
+        "p5": "5",
+        "p7": "7"
+    },
+    "stay_on_start": true,
+    "select_info": {
+        "display_name": "Pansexual Flower Bracelet",
+        "thumb": "silv_bracelet_pansexual",
+        "group": "bracelet_acs",
+        "visible_when_locked": false,
+        "select_dlg": [
+            "I'll always love you, no matter what~!",
+            "You're not broken, you're perfect the way you are!",
+            "Love is love~!",
+            "Why settle for just one? There's enough love for every gender~! "
+        ]
+    },
+    "giftname": "silv_bracelet_pansexual",
+    "rec_layer": 9,
+    "priority": 2,
+    "acs_type": "bracelet_acs",
+    "arm_split": {
+         "p1": "10",
+         "p2": "5",
+         "p3": "10",
+         "p4": "5",
+         "p5": "10",
+         "p7": "10"
+    },
+    "dlg_desc": "bracelet",
+    "dlg_plural": false,
+    "keep_on_desk": false
+}

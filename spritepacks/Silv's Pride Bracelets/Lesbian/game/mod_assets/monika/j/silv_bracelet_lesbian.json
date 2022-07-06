@@ -1,0 +1,40 @@
+{
+    "__author": "silv / rosalyn and MayJay // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "silv_bracelet_lesbian",
+    "img_sit": "silv_bracelet_lesbian",
+    "pose_map": {
+        "p1": "1",
+        "p2": "2",
+        "p3": "3",
+        "p5": "5"
+    },
+    "stay_on_start": true,
+    "select_info": {
+        "display_name": "Lesbian Flower Bracelet",
+        "thumb": "silv_bracelet_lesbian",
+        "group": "bracelet_acs",
+        "visible_when_locked": false,
+        "select_dlg": [
+            "Never be afraid to show off your true colors, [player]!",
+            "You're not broken, you're perfect the way you are!",
+            "Be proud, live freely~",
+            "Let's let go of who we‘re 'supposed' to be and embrace who we {i}really{/i} are.",
+            "{i}~I wanna ruin our friendship, we should be lovers instead~{/i}"
+        ]
+    },
+    "giftname": "silv_bracelet_lesbian",
+    "rec_layer": 9,
+    "priority": 2,
+    "acs_type": "bracelet_acs",
+    "arm_split": {
+         "p1": "10",
+         "p2": "10",
+         "p3": "10",
+         "p5": "10"
+    },
+    "dlg_desc": "bracelet",
+    "dlg_plural": false,
+    "keep_on_desk": false
+}
