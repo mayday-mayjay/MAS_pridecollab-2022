@@ -1,0 +1,30 @@
+{
+    "__author": "HistoryVariety and otter // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "acs_otter_and_historyvariety_gayman_heart",
+    "img_sit": "historyvariety_gayman_heart",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 4,
+    "acs_type": "facepaint_acs",
+    "mux_type": [
+        "facepaint"
+    ],
+    "stay_on_start": true,
+    "giftname": "historyvariety_gayman_heart",
+    "dlg_desc": "gay man heart face paint",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Gay Man heart face paint",
+        "thumb": "historyvariety_gayman_heart",
+        "group": "facepaint_acs",
+        "select_dlg": [
+          "Let's let go of who we're 'supposed' to be and embrace who we {i}really{/i} are.",
+          "I'll always love you, no matter what~!",
+          "You're not broken, you're perfect the way you are!"
+        ]
+    }
+}

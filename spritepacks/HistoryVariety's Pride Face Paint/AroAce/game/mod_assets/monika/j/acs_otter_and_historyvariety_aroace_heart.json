@@ -1,0 +1,30 @@
+{
+    "__author": "HistoryVariety and otter // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "acs_otter_and_historyvariety_aroace_heart",
+    "img_sit": "historyvariety_aroace_heart",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 4,
+    "acs_type": "facepaint_acs",
+    "mux_type": [
+        "facepaint"
+    ],
+    "stay_on_start": true,
+    "giftname": "historyvariety_aroace_heart",
+    "dlg_desc": "aroace heart face paint",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Aroace heart face paint",
+        "thumb": "historyvariety_aroace_heart",
+        "group": "facepaint_acs",
+        "select_dlg": [
+          "Romance isn't everything, we don't need it to enjoy each other's company~!",
+          "You're not broken, you're perfect the way you are!",
+          "Be proud, live freely~"
+        ]
+    }
+}
