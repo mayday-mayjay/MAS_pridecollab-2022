@@ -1,0 +1,32 @@
+{
+    "__author": "verd // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "verd_asexual_flowercrown",
+    "img_sit": "verd_asexual_flowercrown",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "stay_on_start": true,
+    "rec_layer": 1,
+    "priority": 20,
+    "acs_type": "left-hair-flower",
+    "mux_type": [
+        "left-hair-flower"
+    ],
+    "ex_props": {
+        "left-hair-strand-eye-level": false
+    },
+    "select_info": {
+        "display_name": "Flowercrown (Asexual flag)",
+        "thumb": "verd_asexual_flowercrown",
+        "group": "left-hair-flower",
+        "select_dlg": [
+            "Sex isn't everything, we don't need it to enjoy each other's company~",
+            "I'll always love you, no matter what~!",
+            "Be proud, live freely~"
+        ]
+    },
+    "giftname": "asexualflowercrown"
+}

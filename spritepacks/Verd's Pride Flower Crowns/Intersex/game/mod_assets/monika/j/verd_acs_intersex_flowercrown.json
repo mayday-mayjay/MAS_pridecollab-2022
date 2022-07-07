@@ -1,0 +1,32 @@
+{
+    "__author": "verd // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "verd_intersex_flowercrown",
+    "img_sit": "verd_intersex_flowercrown",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "stay_on_start": true,
+    "rec_layer": 1,
+    "priority": 20,
+    "acs_type": "left-hair-flower",
+    "mux_type": [
+        "left-hair-flower"
+    ],
+    "ex_props": {
+        "left-hair-strand-eye-level": false
+    },
+    "select_info": {
+        "display_name": "Flowercrown (Intersex flag)",
+        "thumb": "verd_intersex_flowercrown",
+        "group": "left-hair-flower",
+        "select_dlg": [
+            "Remember, [player], your chromosomal makeup doesn't make you any less you~",
+            "I'll always love you, no matter what~!",
+            "Be proud, live freely~"
+        ]
+    },
+    "giftname": "intersexflowercrown"
+}
