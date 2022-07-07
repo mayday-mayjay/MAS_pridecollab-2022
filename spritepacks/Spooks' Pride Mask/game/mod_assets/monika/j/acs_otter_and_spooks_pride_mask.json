@@ -1,0 +1,30 @@
+{
+    "__author": "Spooks and otter // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "acs_otter_and_spooks_pride_mask",
+    "img_sit": "spooks_pride_mask",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 1,
+    "acs_type": "mask",
+    "mux_type": [
+        "mask"
+    ],
+    "stay_on_start": true,
+    "giftname": "spooks_pridemask",
+    "dlg_desc": "pride mask",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Pride Mask",
+        "thumb": "spooks_pride_mask",
+        "group": "mask",
+        "select_dlg": [
+          "Never be afraid to show off your true colors, [player]!",
+          "You're not broken, you're perfect the way you are!",
+          "Be proud, live freely~"
+        ]
+    }
+}
