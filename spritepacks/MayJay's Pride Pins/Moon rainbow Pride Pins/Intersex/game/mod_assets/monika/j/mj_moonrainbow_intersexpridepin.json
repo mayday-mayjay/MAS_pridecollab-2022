@@ -1,0 +1,38 @@
+{
+    "__author": "MayJay and otter // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "mj_moonrainbow_intersexpridepin",
+    "img_sit": "mj_moonrainbow_intersexpridepin",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "highlight": {
+        "mapping": {
+            "0": {
+                "night": "0"
+            },
+            "5": {
+                "night": "1"
+            }
+        }
+    },
+    "rec_layer": 6,
+    "acs_type": "pin_acs",
+    "stay_on_start": true,
+    "priority": 8,
+    "dlg_desc": "pride pin",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Moon-Rainbow Intersex Pin",
+        "thumb": "mj_moonrainbow_intersexpridepin",
+        "group": "pin_acs",
+        "select_dlg": [
+            "Never be afraid to show off your true colors, [player]!",
+            "You're not broken, you're perfect the way you are!",
+            "Be proud, live freely~"
+        ]
+    },
+    "giftname": "mj_moonrainbow_intersexpridepin"
+}
