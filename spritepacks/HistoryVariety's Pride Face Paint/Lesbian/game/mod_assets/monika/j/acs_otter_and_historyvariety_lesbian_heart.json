@@ -1,0 +1,30 @@
+{
+    "__author": "HistoryVariety and otter // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "acs_otter_and_historyvariety_lesbian_heart",
+    "img_sit": "historyvariety_lesbian_heart",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 4,
+    "acs_type": "facepaint_acs",
+    "mux_type": [
+        "facepaint"
+    ],
+    "stay_on_start": true,
+    "giftname": "historyvariety_lesbian_heart",
+    "dlg_desc": "lesbian heart face paint",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Lesbian heart face paint",
+        "thumb": "historyvariety_lesbian_heart",
+        "group": "facepaint_acs",
+        "select_dlg": [
+          "~{i}I wanna ruin our friendship, we should be lovers instead{/i}~",
+          "I'll always love you, no matter what~!",
+          "You're not broken, you're perfect the way you are!"
+        ]
+    }
+}
