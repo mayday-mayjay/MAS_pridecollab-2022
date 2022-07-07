@@ -1,0 +1,29 @@
+{
+    "__author": "otter and HistoryVariety // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "acs_otter_and_historyvariety_demi_nonbinary_octo_table_acs_reg",
+    "img_sit": "historyvariety_demi_nonbinary_octo",
+    "pose_map": {
+        "default": "0",
+        "l_default": "0"
+    },
+
+    "rec_layer": 2,
+    "priority": 15,
+    "acs_type": "table_acs",
+    "stay_on_start": true,
+    "select_info": {
+        "display_name": "Demi Nonbinary Octo Plush",
+        "thumb": "historyvariety_deminonbinaryocto_reg",
+        "group": "table_acs",
+        "select_dlg": [
+          "Half enby, but a full cutie~!",
+          "Be proud, live freely~",
+          "I'll always love you, no matter what~!"
+        ]
+    },
+    "dlg_desc": "",
+    "dlg_plural": false,
+    "giftname": "historyvariety_deminonbinaryocto_reg"
+}

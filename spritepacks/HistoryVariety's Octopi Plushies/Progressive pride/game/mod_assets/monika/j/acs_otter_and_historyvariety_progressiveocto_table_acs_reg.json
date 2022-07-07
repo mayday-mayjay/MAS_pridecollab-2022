@@ -1,0 +1,29 @@
+{
+    "__author": "otter and HistoryVariety // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "acs_otter_and_historyvariety_progressiveocto_table_acs_reg",
+    "img_sit": "history_variety_progressive_pride_flag_octo",
+    "pose_map": {
+        "default": "0",
+        "l_default": "0"
+    },
+
+    "rec_layer": 2,
+    "priority": 15,
+    "acs_type": "table_acs",
+    "stay_on_start": true,
+    "select_info": {
+        "display_name": "Progressive Pride Plush Octopus",
+        "thumb": "historyvariety_progressiveocto_reg",
+        "group": "table_acs",
+        "select_dlg": [
+          "Never be afraid to show off your true colors, [player].",
+          "I'll always love you, no matter what~!",
+          "You're not broken, you're perfect the way you are!"
+        ]
+    },
+    "dlg_desc": "progressive pride octopus plush",
+    "dlg_plural": false,
+    "giftname": "historyvariety_progressiveocto_reg"
+}

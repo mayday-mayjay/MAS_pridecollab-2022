@@ -1,0 +1,29 @@
+{
+    "__author": "otter and HistoryVariety // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "acs_otter_and_history_variety_demiaro_octo_table_acs_reg",
+    "img_sit": "history_variety_demiaro_octo",
+    "pose_map": {
+        "default": "0",
+        "l_default": "0"
+    },
+
+    "rec_layer": 2,
+    "priority": 15,
+    "acs_type": "table_acs",
+    "stay_on_start": true,
+    "select_info": {
+        "display_name": "Demiromantic Plush Octopus",
+        "thumb": "history_variety_demiaro_octo_reg",
+        "group": "table_acs",
+        "select_dlg": [
+          "Romance isn't everything, we don't need it to enjoy each other's company~!",
+          "You're not broken, you're perfect the way you are!",
+          "Be proud, live freely~"
+        ]
+    },
+    "dlg_desc": "demiromantic octopus plush",
+    "dlg_plural": false,
+    "giftname": "history_variety_demiaro_octo_reg"
+}

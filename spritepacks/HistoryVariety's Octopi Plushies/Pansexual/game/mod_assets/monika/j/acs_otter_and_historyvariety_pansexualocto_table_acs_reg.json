@@ -1,0 +1,29 @@
+{
+    "__author": "otter and HistoryVariety // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "acs_otter_and_historyvariety_pansexualocto_table_acs_reg",
+    "img_sit": "history_variety_pansexual_octopus",
+    "pose_map": {
+        "default": "0",
+        "l_default": "0"
+    },
+
+    "rec_layer": 2,
+    "priority": 15,
+    "acs_type": "table_acs",
+    "stay_on_start": true,
+    "select_info": {
+        "display_name": "Pansexual Plush Octopus",
+        "thumb": "historyvariety_pansexualocto_reg",
+        "group": "table_acs",
+        "select_dlg": [
+          "Why settle for just one? There's enough love for every gender~!",
+          "I'll always love you, no matter what~!",
+          "Love is love~!"
+        ]
+    },
+    "dlg_desc": "pansexual octopus plush",
+    "dlg_plural": false,
+    "giftname": "historyvariety_pansexualocto_reg"
+}
