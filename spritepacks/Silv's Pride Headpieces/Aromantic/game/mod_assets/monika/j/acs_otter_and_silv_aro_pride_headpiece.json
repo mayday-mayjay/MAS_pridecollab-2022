@@ -1,0 +1,33 @@
+{
+    "__author": "Silv and otter",
+    "version": 3,
+    "type": 0,
+    "name": "acs_otter_and_silv_aro_pride_headpiece",
+    "img_sit": "silv_aro_pride_headpiece",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "stay_on_start": true,
+    "rec_layer": 1,
+    "priority": 20,
+    "acs_type": "headpiece_acs",
+    "mux_type": [
+        "headpiece_acs"
+    ],
+    "ex_props": {
+        "left-hair-strand-eye-level": false
+    },
+    "select_info": {
+        "display_name": "Aromantic Headpiece",
+        "thumb": "silv_aro_pride_headpiece",
+        "group": "headpiece_acs",
+        "select_dlg": [
+        "I'll always love you, no matter what~!",
+        "You're not broken, you're perfect the way you are!",
+        "Be proud, live freely~",
+        "Romance isn't everything, we don't need it to enjoy each other's company~!"
+        ]
+    },
+    "giftname": "silv_aromantic_headpiece"
+}

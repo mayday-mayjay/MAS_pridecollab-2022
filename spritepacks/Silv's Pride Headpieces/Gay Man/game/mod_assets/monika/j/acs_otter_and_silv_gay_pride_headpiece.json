@@ -1,0 +1,33 @@
+{
+    "__author": "Silv and otter",
+    "version": 3,
+    "type": 0,
+    "name": "acs_otter_and_silv_gay_pride_headpiece",
+    "img_sit": "silv_gay_pride_headpiece",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "stay_on_start": true,
+    "rec_layer": 1,
+    "priority": 20,
+    "acs_type": "headpiece_acs",
+    "mux_type": [
+        "headpiece_acs"
+    ],
+    "ex_props": {
+        "left-hair-strand-eye-level": false
+    },
+    "select_info": {
+        "display_name": "Gay Man Headpiece",
+        "thumb": "silv_enby_pride_headpiece",
+        "group": "headpiece_acs",
+        "select_dlg": [
+        "Never be afraid to show off your true colors, [player]!",
+        "You're not broken, you're perfect the way you are!",
+        "Be proud, live freely~",
+        "Let's let go of who we‘re 'supposed' to be and embrace who we {i}really{/i} are."
+        ]
+    },
+    "giftname": "silv_gay_headpiece"
+}
