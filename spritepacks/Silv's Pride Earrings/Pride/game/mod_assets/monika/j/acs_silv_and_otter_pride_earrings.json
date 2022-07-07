@@ -1,0 +1,30 @@
+{
+    "__author": "Silv and otter // 2022 Pride Month Collab ",
+    "version": 3,
+    "type": 0,
+    "name": "acs_silv_and_otter_pride_earrings",
+    "img_sit": "silv_pride_earrings",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 10,
+    "acs_type": "earrings",
+    "mux_type": [
+        "earrings"
+    ],
+    "stay_on_start": true,
+    "giftname": "silv_prideearrings",
+    "dlg_desc": "pride earrings",
+    "dlg_plural": true,
+    "select_info": {
+        "display_name": "Pride earrings",
+        "thumb": "silv_pride_earrings",
+        "group": "earrings",
+        "select_dlg": [
+        "Never be afraid to show off your true colors, [player]!",
+        "You're not broken, you're perfect the way you are!",
+        "Be proud, live freely~"
+        ]
+    }
+}
