@@ -1,0 +1,32 @@
+{
+    "__author": "FellTheSimp and Briar Young // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "fell_choker_pride_polysexual",
+    "img_sit": "fell_choker_pride_polysexual",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 8,
+    "acs_type": "choker",
+    "stay_on_start": true,
+    "priority": 8,
+    "dlg_desc": "choker",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Choker (Pride, Polysexual)",
+        "thumb": "fell_choker_pride_polysexual",
+        "group": "choker",
+        "select_dlg": [
+            "You're not broken, you're perfect just the way you are!",
+            "Love is love!",
+            "Why choose just one? There's enough love for every gender!"
+        ]
+    },
+    "giftname": "chokerpridepolysexual",
+    "arm_split": {
+        "default": "0",
+        "use_reg_for_l": true
+    }
+}
