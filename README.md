@@ -1,11 +1,13 @@
-<h1 align="center">⭑ 🏳️‍🌈❤️🧡💛 2022 MAS Pride Month Collab! 💚💙💜🏳️‍🌈 ⭑</h1>
-<h3 align="center">"You're perfect to me, my darling~!" ~ Monika</h3>
+<h1 align="center">⭑ ❤️🧡💛 2022 MAS Pride Month Collab! 💚💙💜 ⭑</h1>
+<h3 align="center">"You're perfect to me, my darling~!" ~ Monika 🏳️‍🌈</h3>
 <p align="center">Here is the repo  version of u/mayday-mayjay's 2022 pride collab in case the google drive link is being finicky!</p>
 <p align="center">
   <a href="https://discord.gg/Tx23rczN8N">
     <img alt="Discord server" src="https://discordapp.com/api/guilds/957814201311694870/widget.png?style=shield">
   </a>
 </p>
+
+## 🏳️‍🌈 ⭑ [click here for the google drive version!](https://drive.google.com/drive/folders/1r4YlcqExJuYuDGi4Z6A0gW9w9MI5RL86?usp=sharing)
 
 ## ✨ ⭑ Content
 
