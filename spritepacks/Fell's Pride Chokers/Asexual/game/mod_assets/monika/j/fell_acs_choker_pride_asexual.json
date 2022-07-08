@@ -1,0 +1,32 @@
+{
+    "__author": "FellTheSimp and Briar Young // 2022 Pride Month Collab",
+    "version": 3,
+    "type": 0,
+    "name": "fell_choker_pride_asexual",
+    "img_sit": "fell_choker_pride_asexual",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 8,
+    "acs_type": "choker",
+    "stay_on_start": true,
+    "priority": 8,
+    "dlg_desc": "choker",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Choker (Pride, Asexual)",
+        "thumb": "fell_choker_pride_asexual",
+        "group": "choker",
+        "select_dlg": [
+            "You're not broken, you're perfect just the way you are!",
+            "Sex isn't everything, we don't need it to enjoy each other's company~",
+            "Let's let go of who we're 'supposed' to be and be who we {i}really{/i} are."
+        ]
+    },
+    "giftname": "chokerprideasexual",
+    "arm_split": {
+        "default": "0",
+        "use_reg_for_l": true
+    }
+}
