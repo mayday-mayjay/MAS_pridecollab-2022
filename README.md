@@ -53,6 +53,22 @@
   ![github](.github/icons/github-light.svg#gh-dark-mode-only)![github](.github/icons/github-dark.svg#gh-light-mode-only) [@my-otter-self](https://github.com/my-otter-self)
   — collab co-leader/concept creator, repo manager, bestieeeee
 <details><summary> check all the other spritepack designers and coders here! </summary> 
+* Briar Young ⭑ Instagram: @briar_nyako_mee ⭑ helped with jsons <br>
+* Kaiewe ⭑ Reddit: u/kaiewe ⭑ plushies, helped with jsons <br>
+* Silvery/Rosalyn  ⭑ Reddit: u/Mystique-Silv ⭑ headpieces, bracelets, earrings <br>
+* Fell ⭑ Reddit: u/FellTheSimp ⭑ hairclips and chokers <br>
+* HistoryVariety ⭑ Reddit: u/Historical_Variety63 ⭑ collab concept creator, plushies, facepaint, earrings <br>
+* Verd ⭑ Reddit: u/crunchy_meringue ⭑ flower crowns, help with jsons <br>
+* Bluklaod ⭑ Reddit: u/Bluklaod ⭑ mugs, gloves, facepaint, pong bgs <br>
+* Bibi ⭑ Reddit: u/queenbeebee19 ⭑ trans colored hair <br>
+* Spooks ⭑ Reddit: u/-Spooks- ⭑ mask, plushie, flower vases <br>
+* Ysiekiz ⭑ Reddit: u/Living-Class4701 ⭑ helped with jsons <br>
+* dreamscached ⭑ Reddit: u/dreamscached ⭑ github: @dreamscached ⭑ helped with jsons <br>
+ <br>
+* additional credits: <br>
+Official MAS devs ⭑ original flower crown and mug art, also MAS itself lol <br>
+u/geneTechnician ⭑ half up ribbon concepts  <br>
+orca / u/kaiewe ⭑ original twin bow art used for half up bow edits <br>
 </details>
 
 ## 🪐 ⭑ Join our Discord!
