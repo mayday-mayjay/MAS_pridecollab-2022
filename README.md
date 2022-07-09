@@ -9,6 +9,8 @@
 
 ## 🏳️‍🌈 ⭑ [click here for the google drive version!](https://drive.google.com/drive/folders/1r4YlcqExJuYuDGi4Z6A0gW9w9MI5RL86?usp=sharing)
 
+## BIG NOTE ⭑ Some of these packs require selectors [from here](https://github.com/mayday-mayjay/MJ-MAS-selector-city) or from u/geneTechnician on reddit!
+
 ## ✨ ⭑ Content
 
 ✦ Hairclips (in 20+ flags) <br>
